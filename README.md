@@ -1,5 +1,9 @@
 # Koality-Auth
 
+Made for HackLassonde
+
+https://devpost.com/software/koalityauth
+
 ## Inspiration
 Software with a location-based license agreement and which requires one user per license often faces difficulty verifying the authenticity of the end user. Since the license agreement requires the user to have one license per user per location, often times technology can be exploited to spoof the location or have multiple users under the same license.
 
